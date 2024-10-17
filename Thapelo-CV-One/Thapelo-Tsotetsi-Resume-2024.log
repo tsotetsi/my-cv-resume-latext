@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.4.30)  5 OCT 2024 12:04
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.4.30)  17 OCT 2024 13:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -558,60 +558,29 @@ Overfull \hbox (127.08136pt too wide) in paragraph at lines 71--133
 Package hyperref Warning: Suppressing empty link on input line 140.
 
 
-Overfull \hbox (40.176pt too wide) in paragraph at lines 134--143
+Overfull \hbox (25.27203pt too wide) in paragraph at lines 134--143
 [][] 
  []
 
 [1
 
 ]
-Overfull \hbox (1.51015pt too wide) in paragraph at lines 152--156
+Overfull \hbox (1.51015pt too wide) in paragraph at lines 168--172
 [][] 
  []
-
-
-Package fontspec Info: Font family 'Fontin-Regular(0)' created for font
-(fontspec)             'Fontin-Regular' with options
-(fontspec)             [Mapping=tex-text,Ligatures=TeX,SmallCapsFont=Fontin
-(fontspec)             SmallCaps].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"Fontin-Regular/OT:language=dflt;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Fontin
-(fontspec)             SmallCaps/OT:language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"Fontin-Regular/B/OT:language=dflt;mapping=tex-text;"
-
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Fontin
-(fontspec)             SmallCaps/OT:language=dflt;mapping=tex-text;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"Fontin-Regular/I/OT:language=dflt;mapping=tex-text;"
-
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"Fontin
-(fontspec)             SmallCaps/OT:language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"Fontin-Regular/BI/OT:language=dflt;mapping=tex-text;
-"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"Fontin
-(fontspec)             SmallCaps/OT:language=dflt;mapping=tex-text;"
 
 [2] (./Thapelo-Tsotetsi-Resume-2024.aux)
 Package rerunfilecheck Info: File `Thapelo-Tsotetsi-Resume-2024.out' has not ch
 anged.
-(rerunfilecheck)             Checksum: 557142A29F0A3B3AC7C5D76D57F32D33;788.
+(rerunfilecheck)             Checksum: F956B11FFD3FB98896BD29D4A000D4C3;788.
  ) 
 Here is how much of TeX's memory you used:
- 15583 strings out of 478175
- 292990 string characters out of 5854103
+ 15545 strings out of 478175
+ 291863 string characters out of 5854103
  655227 words of memory out of 5000000
- 36011 multiletter control sequences out of 15000+600000
- 469811 words of font info for 53 fonts, out of 8000000 for 9000
+ 35980 multiletter control sequences out of 15000+600000
+ 469803 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 73i,9n,77p,1217b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,8n,77p,1217b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Thapelo-Tsotetsi-Resume-2024.pdf (2 pages).
